@@ -6,11 +6,9 @@ def haromszog(name,name2,name3):
     else:
         print(helytelen.format(a,b,c))
 
-
 if __name__ == "__main__":
     print("Adja meg a háromszög három oldalát cm-ben:")
     a = int(input("a oldal (cm): "))
     b = int(input("b oldal (cm): "))
     c = int(input("c oldal (cm): "))
     haromszog(a,b,c)
-
