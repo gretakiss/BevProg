@@ -1,5 +1,4 @@
 def cm_to_inch(name,name2):
-    mert = mert.lower()
     valt = 2.54
     cmvalt = round(szam*valt,2)
     inchvalt = round(szam/valt,2)
