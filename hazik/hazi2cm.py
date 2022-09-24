@@ -11,7 +11,7 @@ def cm_to_inch(name,name2):
 
 if __name__ == "__main__":
     print("Adjon meg egy számot és egy mértékegységet: ")
-    szam = int(input(""))
+    szam = float(input(""))
     mert = input("")
     cm_to_inch(szam,mert)
     
