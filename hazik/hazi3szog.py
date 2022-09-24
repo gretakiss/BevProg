@@ -1,4 +1,4 @@
-def haromszog(name,name1,name3):
+def haromszog(name,name2,name3):
     helyes = "A {},{} és {} oldalú háromszög szerkeszthető."
     helytelen = "A {},{} és {} oldalú háromszög NEM szerkeszthető."
     if a+b>=c and a+c>=b and b+c>=a:
